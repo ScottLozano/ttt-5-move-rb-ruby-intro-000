@@ -1,3 +1,10 @@
 #!/usr/bin/env ruby
 
 require_relative '../lib/move.rb'
+
+puts "Welcome to Tic Tac Toe!"
+puts "Where would you like to go?"
+
+user_input = gets.strip
+
+move(update_array_at_with)
