@@ -14,4 +14,3 @@ def input_to_index(user_input)
 end
 
 converted_input = input_to_index(user_input)
-  
